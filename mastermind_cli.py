@@ -1,7 +1,4 @@
-from quantumrandom import randint
-
-
-# from random import randint
+from random import randint
 
 class MastermindGame:
     def __init__(self):
